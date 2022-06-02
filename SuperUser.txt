@@ -1,0 +1,9 @@
+username: ravi_stock
+email: ravi@gmail.com
+password: roc2022
+
+
+MySQL:
+django admin
+username : ravic_stock
+password : roc2022

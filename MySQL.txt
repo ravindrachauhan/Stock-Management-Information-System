@@ -1,0 +1,8 @@
+MySQL Login details
+
+root
+Roc@2022
+
+Schema:
+myusername
+myPassword
